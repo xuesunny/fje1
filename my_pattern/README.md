@@ -85,6 +85,7 @@ Director：Director 类控制建造过程，根据需要调用建造者的方法
 
 ## 运行结果
 基础的四张图：
+
 ![alt 属性文本](./Tree0.png )
 ![alt 属性文本](./Tree1.png )
 ![alt 属性文本](./Rectangle0.png )
